@@ -1,2 +1,2 @@
 # aula-autentication
-Repositório de teste para autenticação
+Repositório de teste para autenticação - DIO
